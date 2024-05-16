@@ -1,26 +1,26 @@
-# Bine ai venit pe profilul meu GitHub! 👋
+# Welcome to my GitHub profile! 👋
 
-Salut, sunt Dorin, un pasionat de dezvoltare web în vârstă de 21 de ani. Îmi place să creez aplicații web interactive și responsive folosind o varietate de tehnologii moderne. Aici vei găsi proiectele mele recente și experimentele pe care le-am dezvoltat.
+Hi, I'm Dorin, a 21-year-old web development enthusiast. I enjoy creating interactive and responsive web applications using a variety of modern technologies. Here you will find my recent projects and experiments I have developed.
 
-## Despre mine
+## About me
 
-- 🌱 Studii: Centrul de Excelenta in Energetica si Electronica, Link Academy
-- 💻 Experiență în: TypeScript, React, HTML, CSS, SCSS, Bootstrap, Next.js, Redux, Tailwind CSS, AJAX
-- 📚 Limbi: Română (C1), Rusă (C1), Engleză (B2)
+- 🌱 Studies: Center of Excellence in Energy and Electronics, Link Academy
+- 💻 Experience in: TypeScript, React, HTML, CSS, SCSS, Bootstrap, Next.js, Redux, Tailwind CSS, AJAX
+- 📚 Languages: Romanian (C1), Russian (C1), English (B2)
 
-## Portofoliu
+## Portofolio
 
-- 🚀 [Proiectul 1](link): Mică descriere a proiectului.
-- 🌟 [Proiectul 2](link): Mică descriere a proiectului.
+- 🚀 [Project 1](link): Small description of the project.
+- 🌟 [Project 2](link): Small description of the project.
 
-## Cât mai multe despre mine
+## As much as possible about me
 
-Îmi place să rămân conectat cu comunitatea dezvoltatorilor și să contribui la proiectele open-source. Dacă ai întrebări, sugestii sau doar vrei să discutăm despre tehnologii, nu ezita să mă contactezi!
+I enjoy staying connected with the developer community and contributing to open-source projects. If you have questions, suggestions, or just want to talk about technology, don't hesitate to contact me!
 
 ## Contact
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/dorin-creciun-07b900270/)
 - 📧 creciundorin25@gmail.com
 
-Mulțumesc că ai trecut pe aici! Aștept cu nerăbdare să colaborăm sau să discutăm despre proiecte interesante.
+Thanks for stopping by! I look forward to collaborating or discussing interesting projects.
 
