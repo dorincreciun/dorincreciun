@@ -1,16 +1,17 @@
-### Hi there 👋
+Bine ai venit pe profilul meu GitHub! 👋
+Salut, sunt Dorin, un pasionat de dezvoltare web în vârstă de 21 de ani. Îmi place să creez aplicații web interactive și responsive folosind o varietate de tehnologii moderne. Aici vei găsi proiectele mele recente și experimentele pe care le-am dezvoltat.
 
-<!--
-**dorincreciun/dorincreciun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Despre mine
+🌱 Student la... (completează cu universitatea sau instituția la care ești student sau alte detalii relevante)
+💻 Experiență în: TypeScript, React, HTML, CSS, SCSS, Bootstrap, Next.js, Redux, Tailwind CSS, AJAX
+📚 Limbi: Română (nativ), Rusă, Engleză
+Portofoliu
+🚀 Proiectul 1: Mică descriere a proiectului.
+🌟 Proiectul 2: Mică descriere a proiectului.
+Cât mai multe despre mine
+Îmi place să rămân conectat cu comunitatea dezvoltatorilor și să contribui la proiectele open-source. Dacă ai întrebări, sugestii sau doar vrei să discutăm despre tehnologii, nu ezita să mă contactezi!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+💬 LinkedIn
+📧 Adresa de email
+Mulțumesc că ai trecut pe aici! Aștept cu nerăbdare să colaborăm sau să discutăm despre proiecte interesante.
