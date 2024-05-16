@@ -19,7 +19,7 @@ Salut, sunt Dorin, un pasionat de dezvoltare web în vârstă de 21 de ani. Îmi
 
 ## Contact
 
-- 💬 [LinkedIn]([link](https://www.linkedin.com/in/dorin-creciun-07b900270/))
+- 💬 [LinkedIn](https://www.linkedin.com/in/dorin-creciun-07b900270/)
 - 📧 creciundorin25@gmail.com
 
 Mulțumesc că ai trecut pe aici! Aștept cu nerăbdare să colaborăm sau să discutăm despre proiecte interesante.
