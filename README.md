@@ -4,9 +4,9 @@ Salut, sunt Dorin, un pasionat de dezvoltare web în vârstă de 21 de ani. Îmi
 
 ## Despre mine
 
-- 🌱 Student la... (completează cu universitatea sau instituția la care ești student sau alte detalii relevante)
+- 🌱 Studii: Centrul de Excelenta in Energetica si Electronica, Link Academy
 - 💻 Experiență în: TypeScript, React, HTML, CSS, SCSS, Bootstrap, Next.js, Redux, Tailwind CSS, AJAX
-- 📚 Limbi: Română (nativ), Rusă, Engleză
+- 📚 Limbi: Română (C1), Rusă (C1), Engleză (B2)
 
 ## Portofoliu
 
@@ -19,8 +19,8 @@ Salut, sunt Dorin, un pasionat de dezvoltare web în vârstă de 21 de ani. Îmi
 
 ## Contact
 
-- 💬 [LinkedIn](link)
-- 📧 Adresa de email
+- 💬 [LinkedIn]([link](https://www.linkedin.com/in/dorin-creciun-07b900270/))
+- 📧 creciundorin25@gmail.com
 
 Mulțumesc că ai trecut pe aici! Aștept cu nerăbdare să colaborăm sau să discutăm despre proiecte interesante.
 
