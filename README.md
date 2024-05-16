@@ -10,8 +10,8 @@ Hi, I'm Dorin, a 21-year-old web development enthusiast. I enjoy creating intera
 
 ## Portofolio
 
-- 🚀 [Project 1](link): Small description of the project.
-- 🌟 [Project 2](link): Small description of the project.
+- 🚀 [Project 1]((https://dorincreciun.github.io/ecommerce-product-page/)): E-commerce.
+- 🌟 [Project 2](https://dorincreciun.github.io/todo-list-live/): Todo list.
 
 ## As much as possible about me
 
